@@ -1,0 +1,90 @@
+Unless otherwise specified, the textures and sounds in this repository are
+licensed under the Creative Commons Attribution 4.0 International License. To
+view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/
+or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042,
+USA.
+
+Unless otherwise specified, the source code in this repository is licensed
+under the...
+
+* * *
+
+MIT License
+
+Copyright (c) 2017-2017 Andrew Zyabin
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+* * *
+
+The following source code is not licensed under the MIT License as written
+above. The authors and licenses of source code used are listed below:
+
+- `nodes/stone.lua` is based on the Minetest Game `default` mod, the source
+code for which is credited to celeron55, Perttu Ahola <celeron55@gmail.com> and
+various Minetest developers and contributors and is licensed under version 2.1
+of the GNU Lesser General Public License:
+
+> GNU Lesser General Public License, version 2.1
+> Copyright (C) 2011-2016 celeron55, Perttu Ahola <celeron55@gmail.com>
+> Copyright (C) 2011-2016 Various Minetest developers and contributors
+>
+> This program is free software; you can redistribute it and/or modify it under the terms
+> of the GNU Lesser General Public License as published by the Free Software Foundation;
+> either version 2.1 of the License, or (at your option) any later version.
+>
+> This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;
+> without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+> See the GNU Lesser General Public License for more details:
+> https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html
+
+* * *
+
+The following textures are not licensed under the Creative Commons Attribution
+4.0 International License. Their authors and licenses are listed below:
+
+- `crack_anylength.png` by celeron55, Perttu Ahola <celeron55@gmail.com> is
+licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported
+License, available at http://creativecommons.org/licenses/by-sa/3.0/.
+
+- `heart.png` and `bubble.png` by BlockMen are licensed under the Creative
+Commons Attribution-ShareAlike 3.0 Unported License.
+
+- `crosshair.png` is licensed under the Do What the Fuck You Want To Public
+License.
+
+- `player.png` and `player_back.png` from overgen_game by Krock are licensed
+under the Creative Commons Attribution-ShareAlike 3.0 Unported License.
+The overgen_game is available at
+https://forum.minetest.net/viewtopic.php?f=15&t=8929.
+
+- `wieldhand.png` by Andrew Zyabin is based on `player.png` from overgen_game
+by Krock (see above) and is licensed under the Creative Commons
+Attribution-ShareAlike 3.0 Unported License.
+
+- `default_stone.png` by Andrew Zyabin is a resized version of the Stone
+Texture from OpenGameArt.org <https://opengameart.org/content/stone-texture>
+by Bart K. <https://opengameart.org/users/bart> and is licensed under one of:
+	- the Creative Commons Attribution 3.0 Unported License, which is available
+	  at http://creativecommons.org/licenses/by/3.0/,
+	- the Creative Commons Attribution-ShareAlike 3.0 Unported License, or
+	- the GNU General Public License as published by the Free Software
+	  Foundation; either version 2 of the License, or (at your option) any later
+		version,
+whichever applies.
