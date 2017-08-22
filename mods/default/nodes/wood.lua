@@ -25,15 +25,18 @@ minetest.register_node("default:leaves_oak", {
 	},
 	paramtype = "light",
 	groups = {snappy = 3},
-	--[[ drop = {
+	drop = {
 		items = {
 			{
-				-- player will get sapling with 1/20 chance
+				items = {'default:apple'},
+				rarity = 200
+			}
+			--[[ {
 				items = {'default:sapling_oak'},
 				rarity = 20
-			}
+			} ]]-- TODO implement saplings
 		}
-	} ]]-- TODO implement saplings
+	},
 	waving = 2
 })
 
@@ -43,4 +46,4 @@ minetest.register_alias("tree", "default:tree_oak")
 
 minetest.register_alias("default:leaves", "default:leaves_oak")
 minetest.register_alias("mapgen_leaves", "default:leaves_oak")
-minetest.register_alias("leaves", "default:leaves")
+minetest.register_alias("leaves", "default:leaves_oak")

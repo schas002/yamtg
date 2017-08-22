@@ -6,7 +6,7 @@ minetest.register_node("default:stone", {
 		"default_stone.png",
 		"default_stone.png",
 		"default_stone.png",
-		"default_stone.png",
+		"default_stone.png"
 	},
 	groups = {cracky = 3},
 	-- drop = "default:cobblestone", -- TODO implement cobblestone

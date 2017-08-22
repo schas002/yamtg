@@ -18,4 +18,4 @@ Every contributor to this repository must follow the code of conduct, which is: 
 
 ## License
 
-[Various licenses](LICENSE) &copy; Andrew Zyabin, celeron55, Perttu Ahola <celeron55@gmail.com>, BlockMen, Krock
+[Various licenses](LICENSE) &copy; Andrew Zyabin, [Bart K.](https://opengameart.org/users/bart), BlockMen, celeron55, Perttu Ahola <celeron55@gmail.com>, Krock, various Minetest developers and contributors

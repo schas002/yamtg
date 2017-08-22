@@ -34,12 +34,13 @@ SOFTWARE.
 * * *
 
 The following source code is not licensed under the MIT License as written
-above. The authors and licenses of source code used are listed below:
+above. The authors and licenses of the source code used are listed below:
 
-- `nodes/stone.lua` and `nodes/wood.lua` are based on the Minetest Game
-`default` mod, the source code for which is credited to celeron55, Perttu Ahola
-<celeron55@gmail.com> and various Minetest developers and contributors and is
-licensed under version 2.1 of the GNU Lesser General Public License:
+- `nodes/stone.lua`, `nodes/wood.lua` and `items/food.lua` are based on the
+Minetest Game `default` mod, the source code for which is credited to
+celeron55, Perttu Ahola <celeron55@gmail.com> and various Minetest developers
+and contributors and is licensed under version 2.1 of the GNU Lesser General
+Public License:
 
 > GNU Lesser General Public License, version 2.1
 > Copyright (C) 2011-2016 celeron55, Perttu Ahola <celeron55@gmail.com>
